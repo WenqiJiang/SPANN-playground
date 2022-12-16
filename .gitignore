@@ -66,3 +66,4 @@ dkms.conf
 /out/build/x64-Debug
 /sgKey.snk
 /AnnService/x64/Debug
+/Release
